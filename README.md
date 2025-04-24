@@ -37,7 +37,7 @@ And that's not even counting HzMod support, which offers several features that N
 
 ## Quick tutorial, Troubleshooting & FAQ
 
-You can find tutorials, troubleshooting instructions & FAQ on discord server https://bit.ly/3YM4tul
+You can find tutorials, troubleshooting instructions & FAQ on discord server [Discord](https://discord.gg/9BSqUDmZzy)
 
 ## Keyboard shortcuts
 
